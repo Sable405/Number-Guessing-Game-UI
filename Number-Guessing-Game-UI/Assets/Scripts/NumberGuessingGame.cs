@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Number-Guessing-Game : MonoBehaviour
+public class NumberGuessingGame : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
