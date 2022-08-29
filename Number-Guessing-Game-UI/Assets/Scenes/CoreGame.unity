@@ -1427,6 +1427,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ef84b4fb3ef2014f8058aa5fecd7373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  guess: 0
+  minValue: 1
+  maxValue: 100
 --- !u!4 &2024313742
 Transform:
   m_ObjectHideFlags: 0
